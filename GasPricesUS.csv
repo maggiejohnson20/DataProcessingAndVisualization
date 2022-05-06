@@ -1,0 +1,52 @@
+﻿state_abbrev,State,Regular,Mid-Grade,Premium,Diesel
+CA,California ,4.69,4.85,5.06,5.22
+HI,Hawaii,3.91,4.26,4.6,5.27
+NV,Nevada,3.85,4.16,4.46,5.24
+AK,Alaska,4.6,4.88,5.13,5.42
+WA,Washington,5.76,5.96,6.1,6.49
+OR,Oregon,4.04,4.37,4.67,5.35
+AZ,Arizona,4.19,4.5,4.76,6.19
+UT,Utah,4.55,5.01,5.18,5.58
+ID,Idaho,4.29,4.64,4.89,5.82
+IL,Illinois,4.18,4.56,4.89,5.6
+DC,District of Columbia,3.76,4.13,4.49,5.05
+NY,New York,5.27,5.49,5.72,5.8
+PA,Pennsylvania,3.93,4.09,4.51,5.3
+WY,Wyoming,4.46,4.65,4.86,5.28
+MA,Massachusetts,4.54,4.9,5.29,5.19
+ME,Maine,4.18,4.48,4.82,5.28
+VT,Vermont,3.86,4.1,4.38,5.27
+NJ,New Jersey,3.93,4.23,4.56,5.19
+MT,Montana,3.92,4.25,4.57,5.14
+NM,New Mexico,4.26,4.58,4.82,6.17
+FL,Florida,4.29,4.7,4.96,5.74
+NH,New Hampshire,4.27,4.59,4.86,6.17
+RI,Rhode Island,4.3,4.59,4.91,5.16
+WV,West Virginia,3.92,4.16,4.51,5.27
+CO,Colorado,3.85,4.11,4.39,5.17
+VA,Virginia ,3.85,4.15,4.5,5.12
+IN,Indiana,4.2,4.47,4.74,5.41
+DE,Delaware,3.98,4.35,4.7,5.37
+MI,Michigan ,3.98,4.21,4.45,5.39
+CT,Connecticut,3.96,4.05,4.45,5.29
+LA,Louisiana,4.19,4.55,4.82,6.09
+TN,Tennessee,4.31,4.67,4.87,6.14
+ND,North Dakota,4.12,4.43,4.69,5.38
+AL,Alabama,5.11,5.33,5.53,5.46
+SD,South Dakota,4.4,4.71,4.96,6.25
+MN,Minnesota,4.07,4.37,4.72,5.17
+NC,North Carolina,3.86,4.14,4.37,5.29
+KY,Kentucky,4.73,4.91,5.11,5.53
+OH,Ohio,4.42,4.76,5.06,6.14
+IA,Iowa,4.24,4.61,4.85,6.19
+NE,Nevada,3.92,4.28,4.61,5.35
+MS,Mississippi,4.03,4.14,4.52,5.34
+WI,Wisconsin,3.98,4.33,4.68,5.26
+SC,South Carolina,3.9,4.23,4.54,5.16
+GA,Georgia,4.51,4.72,4.92,5.25
+TX,Texas,4.1,4.51,4.83,5.44
+MD,Maryland,4.3,4.6,4.88,6.17
+AR,Arkansas,4.75,4.96,5.14,5.65
+OK,Oklahoma,4.01,4.34,4.75,5.01
+KS,Kansas,4.1,4.39,4.69,5.48
+MO,Missouri,4.18,4.4,4.65,5.44
